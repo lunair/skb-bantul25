@@ -1,4 +1,6 @@
-<?php include_once "../pendaftar/views/main.php";?>
+<?php
+  include "../pendaftaran/views/main.php";
+?>
 
 
     <div>
